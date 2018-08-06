@@ -1,0 +1,22 @@
+.navbar {
+    border-bottom: solid 2px #cccccc;
+    
+}
+
+img {
+    height: 150px;
+    width: 150px;
+}
+
+.container-fluid {
+    background-color: #666666;
+    padding: 0px;
+    margin-bottom: 0px;
+    height: 44px;
+    text-align: center;
+    color: #ffffff;
+    padding-top: 10px;
+    border-top: solid 4px #4aaaa5;
+}
+
+
