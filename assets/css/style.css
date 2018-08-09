@@ -19,4 +19,45 @@ img {
     border-top: solid 4px #4aaaa5;
 }
 
+.portfolio {
+    margin-left: 223px;
+}
+.photo1 {
+    margin-left: 50px;
+    margin-right: 100px;
+    margin-top: 15px;
+    
+}
 
+.photo2 {
+    margin-left: 50px;
+    margin-right: 100px;
+    margin-top: 15px;
+    
+}
+
+.photo3 {
+    margin-left: 50px;
+    margin-right: 100px;
+    margin-top: 15px;;
+    
+}
+
+.photo4 {
+    margin-left: 50px;
+    margin-right: 100px;
+    margin-top: 15px;
+    
+}
+
+.photo5 {
+    margin-left: 50px;
+    margin-right: 100px;
+    margin-top: 15px;
+    
+}
+
+#exampleInputMessage {
+    height: 200px;
+    width: 500px;
+}
